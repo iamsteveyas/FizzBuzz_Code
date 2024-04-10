@@ -1,4 +1,4 @@
-﻿namespace Book
+﻿namespace FizzBuzz
 {
     internal class Program
     {
